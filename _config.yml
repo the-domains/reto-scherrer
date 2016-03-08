@@ -1,7 +1,7 @@
 name: Reto Scherrer
 favicon: null
-layout_spectrum: 0.8288027043454349
-typography_spectrum: 0.7073315063025802
+layout_spectrum: 0
+typography_spectrum: 0.40552
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.11076841340400279
-  lightness: 0.17957935365848243
-  saturation: 0.2299832464195788
-  rhythmicContrast: 0.48317342647351325
+    - '#ffffff'
+    - '#bbc7c7'
+    - '#305e6d'
+    - '#022a44'
+    - '#727d83'
+  brandStrength: 0.1875
+  lightness: 0.1875
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
