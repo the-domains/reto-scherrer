@@ -4,8 +4,15 @@
         <description><![CDATA[Reto Scherrer]]></description>
         <link>https://thegrid.ai/reto-scherrer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 21:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 21:39:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reto-scherrer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blog]]></title>
+            <description><![CDATA[<h1>Blog</h1>]]></description>
+            <link>https://thegrid.ai/reto-scherrer/blog/index.html</link>
+            <guid isPermaLink="false">87e2fe92-400f-4a47-adf2-1280e1cf4a33</guid>
+            <pubDate>Tue, 08 Mar 2016 21:38:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<h1>Contact</h1>]]></description>
