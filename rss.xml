@@ -4,11 +4,18 @@
         <description><![CDATA[Reto Scherrer]]></description>
         <link>https://thegrid.ai/reto-scherrer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 21:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 21:38:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reto-scherrer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<h1>Contact</h1>]]></description>
+            <link>https://thegrid.ai/reto-scherrer/contact/index.html</link>
+            <guid isPermaLink="false">dae4c87b-7139-44c6-976f-69463dc234a8</guid>
+            <pubDate>Tue, 08 Mar 2016 21:38:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[About me]]></title>
-            <description><![CDATA[<article><h1>About me</h1><p>undefined</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/541c8d40d64512bff23f700ef1f1c7237d6dc0cb.png"></article>]]></description>
+            <description><![CDATA[<article><h1>About me</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/541c8d40d64512bff23f700ef1f1c7237d6dc0cb.png"></article>]]></description>
             <link>https://thegrid.ai/reto-scherrer/b99efed1-7ec5-4cd9-8393-c56a453e691e/index.html</link>
             <guid isPermaLink="false">b99efed1-7ec5-4cd9-8393-c56a453e691e</guid>
             <pubDate>Tue, 08 Mar 2016 21:35:03 GMT</pubDate>
